@@ -260,13 +260,13 @@ Contact STYLES
     font-family: 'Raleway', sans-serif;
 }
 
-.reervation input[type="text"] {
+.reservation input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
     color: #8D8E8F;
     padding: 2% 1% 2% 7%;
-    width: 8%;
+    width: 80%;
     border-top: 1px solid #090B0D;
     border-right: 2px solid #424549;
     border-bottom:2px solid #424549;
